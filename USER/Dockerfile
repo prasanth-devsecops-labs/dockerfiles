@@ -9,5 +9,5 @@ RUN useradd roboshop
 
 # change root user to created user
 USER roboshop
-CMD ["sleep", "100"]
+CMD ["sleep","100"]
 
